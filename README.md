@@ -8,6 +8,7 @@ Python Implementation of John Conways "Game of Life"
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 ### Usage:
+* First, install requirements using: `pip install -r requirements.txt`
 * Game can be started with custom parameters using command line arguments
 * Valid arguments include:
 
